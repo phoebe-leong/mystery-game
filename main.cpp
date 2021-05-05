@@ -1,12 +1,3 @@
-/**
- * @file main.cpp
- * @author PH03be (phoebeleong8@gmail.com)
- * @brief A simple mystery game involving a cute neko girl called Samantha
- * @version 0.1
- * @date 11-03-21
- * @copyright Copyright (c) 2021
- */
-
 #include <iostream>
 #include <string>
 #include <fstream>
